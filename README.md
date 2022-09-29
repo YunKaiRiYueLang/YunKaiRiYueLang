@@ -5,6 +5,6 @@
 - 📫 How to reach me: email on the left
 - 👯 I’m looking to collaborate on computer vision project
 
-![YunKaiRiYueLang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunKaiRiYueLang&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YunKaiRiYueLang&show_icons=true)
 
 
